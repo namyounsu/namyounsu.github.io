@@ -1,2 +1,2 @@
-# namsu.github.io
-namsu.github.io
+# namyounsu.github.io
+namyounsu.github.io
